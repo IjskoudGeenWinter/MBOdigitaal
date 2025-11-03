@@ -7,7 +7,7 @@
         class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
         <div class="mb-8">
             <p class="text-sm text-gray-600 flex items-center italic mb-2">
-                Challenge 26
+                Challenge 1
             </p>
             <div class="text-gray-900 font-bold text-xl mb-2">Ik kan een database ontwerpen en maken
                 voor het beheren van de keuzedelen en de keuzes van de studenten.
